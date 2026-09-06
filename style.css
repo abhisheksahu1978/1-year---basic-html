@@ -1,0 +1,54 @@
+h4{
+    color:red;}
+h3{
+    color:green;}
+p{
+    color:rgb(23, 101, 184);}
+body{
+    background-color:rgb(241, 178, 178);}
+#submit{
+    background-color: yellow;}
+#box{
+    background-color:aqua;}
+h1{
+    text-align:center;}
+h4{
+    text-align:center;}
+    h5{
+        text-align:center;}
+        div{
+            width:800px;
+            height:50px;
+            border-width:2px;
+            border-color:brown;
+            border-style:dashed;
+            text-align:center;}
+            p1{
+                width:300px;
+                height:30px;
+                background-color: bisque;
+                border-width:1px;
+                border-style:dotted
+                        }
+                        form{
+                            text-align:center;
+                            width:500px;
+                            height:500px;
+                            background-color:darkturquoise;
+                            border-radius:15px;
+                            margin:300px;
+                                }
+                                p4{
+                                    height:250px;
+                                    width:400px;
+                                    border-radius:15px;
+                                    background-color: rgb(234, 172, 229);
+                                }
+                                div2{
+                                    height:100px;
+                                    width:100px;
+                                    background:green;
+                                    border-radius: 50%;
+                                }
+                                
+
